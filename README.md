@@ -1,6 +1,7 @@
 # Electricity-Bill-System
 
 The system include the following specification,
+
  A startup message that displays the Company Name and Branch, Current Date and the
 Current Time
  A secure login screen which allows only the users represented in Table 1 to enter the
